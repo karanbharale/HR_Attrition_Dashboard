@@ -48,7 +48,7 @@ Based on insights from the data:
 
 ## Usage Instructions
 
-1. Open the Power BI dashboard file (`HR_Dashboard.pbix`).
+1. Open the Power BI dashboard file [HR_Dashboard.pbix](HR_Dashboard.pbix).
 2. Explore the visualizations and metrics:
    - Navigate through department, job role, and demographic-specific insights.
    - Filter by attributes such as age group, job role, and performance rating to view tailored data.
@@ -59,7 +59,7 @@ Based on insights from the data:
 ### Dashboard Overview
 ### **Landing Page**
 The landing page provides a high-level overview of the HR Attrition Dashboard and serves as a navigation hub for exploring deeper insights.
-![Landing Page](Dashboard Images/Overview.png)
+![Landing Page](Dashboard_Images/Overview.png)
 
 ### **1. Demographics**
 A **Demographic Report** summarizes employee statistics such as:
@@ -68,7 +68,7 @@ A **Demographic Report** summarizes employee statistics such as:
 - **Marital Status**
 
 This report provides valuable insights into workforce diversity and commuting patterns, supporting informed decision-making.
-![Demographics Report](Dashboard Images/Demographics.png)
+![Demographics Report](Dashboard_Images/Demographics.png)
 
 ### **2. Turnover Analysis I**
 The **Turnover Report I** offers insights into employee attrition by highlighting:
@@ -77,7 +77,7 @@ The **Turnover Report I** offers insights into employee attrition by highlightin
 - Total **years in the current role**
 
 This data supports effective workforce management and informs retention strategies.
-![Turnover Analysis I](Dashboard Images/Turn_Over_Analysis_1.png)
+![Turnover Analysis I](Dashboard_Images/Turn_Over_Analysis_1.png)
 
 ### **3. Turnover Analysis II**
 The **Turnover Report II** consolidates employee data and focuses on:
@@ -85,7 +85,7 @@ The **Turnover Report II** consolidates employee data and focuses on:
 - Insights into **monthly income** and **attrition trends**
 
 This report provides critical insights to inform effective HR strategies.
-![Turnover Analysis II](Dashboard Images/Turn_Over_Analysis_2.png)
+![Turnover Analysis II](Dashboard_Images/Turn_Over_Analysis_2.png)
 
 ### **4. Employee Wellness**
 The **Employee Wellness Report** explores factors influencing employee attrition, including:
@@ -96,13 +96,13 @@ The **Employee Wellness Report** explores factors influencing employee attrition
 - **Work-Life Balance**
 
 This report offers key insights to enhance employee wellness and retention.
-![Employee Wellness Report](Dashboard Images/Emoloyee_Wellness.png)
+![Employee Wellness Report](Dashboard_Images/Emoloyee_Wellness.png)
 ---
 
 ## Live Links
 
-- **Live Presentation**: [View Here]([link_to_presentation](https://www.canva.com/design/DAGYFNLGS88/1yk0aNAEBb9jE3waxAVODA/edit?utm_content=DAGYFNLGS88&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
-- **Interactive Dashboard**: [Access the Dashboard]([link_to_dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDk0ZDViZWQtZDgwMi00MzU3LTg5ZGMtMjAwYzUxYTBhZTI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+- **Live Presentation:** [View Here](https://www.canva.com/design/DAGYFNLGS88/DOTwp3dJg3McIsKCLypY5g/view?utm_content=DAGYFNLGS88&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
+- **Interactive Dashboard:** [Access the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDk0ZDViZWQtZDgwMi00MzU3LTg5ZGMtMjAwYzUxYTBhZTI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
@@ -118,4 +118,7 @@ With this dashboard, organizations can transition from reactive to proactive HR 
 
 Presented by **Karan Bharale**  
 For any questions or feedback, please reach out.
+
+- **Email:** [karanbharale.work@gmail.com](mailto:karanbharale.work@gmail.com)  
+- **LinkedIn:** [Connect with Me Here](https://www.linkedin.com/in/karan-bharale/)
 
